@@ -1,5 +1,4 @@
-import React, { CSSProperties } from 'react';
-import { ReactNode } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import { Container, Row, Col } from 'react-bootstrap';
 import './index.css';
