@@ -12,32 +12,36 @@
         "text": "Adjournering av mötet"
     },
     {
-        "type": 1,
-        "text": "Streck i debatten"
+        "type": 0,
+        "text": "Mer än en person söker en post"
     },
     {
         "type": 1,
-        "text": "Streck i debatten"
+        "text": "Votering begärs"
     },
     {
         "type": 1,
-        "text": "Streck i debatten"
+        "text": "Sektionsmötet nomineras till dumvästen"
     },
     {
         "type": 1,
-        "text": "Streck i debatten"
+        "text": "Timer på intervjuer"
     },
     {
         "type": 1,
-        "text": "Streck i debatten"
+        "text": "Ändringsyrkande"
     },
     {
         "type": 1,
-        "text": "Streck i debatten"
+        "text": "Någon jämkar sig"
     },
     {
         "type": 1,
-        "text": "Streck i debatten"
+        "text": "Ingen tar upp en motion"
+    },
+    {
+        "type": 1,
+        "text": "Talmanspresidiet glömmer släcka ljuset"
     },
     {
         "type": 1,
