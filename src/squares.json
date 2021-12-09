@@ -93,7 +93,7 @@
     },
     {
         "type": 1,
-        "text": "Någon referear till styrdokumenten"
+        "text": "Någon refererar till styrdokumenten"
     },
     {
         "type": 1,
@@ -113,7 +113,7 @@
     },
     {
         "type": 1,
-        "text": "Debatt om adjourneringsläng"
+        "text": "Debatt om adjourneringslängd"
     },
     {
         "type": 1,
@@ -129,7 +129,7 @@
     },
     {
         "type": 1,
-        "text": "Bilagerna överstiger AA indexering"
+        "text": "Bilagorna överstiger AA indexering"
     },
     {
         "type": 1,
@@ -162,5 +162,9 @@
     {
         "type": 1,
         "text": "Sekreterare behöver en paus"
+    },
+    {
+        "type": 1,
+        "text": "LK försenar mötet"
     }
 ]
