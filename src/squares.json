@@ -57,6 +57,22 @@
     },
     {
         "type": 1,
+        "text": "Yrkning på streck i debatten i diskussion om streck i debatten"
+    },
+    {
+        "type": 1,
+        "text": "Mötet blir förrvirrat"
+    },
+    {
+        "type": 1,
+        "text": "Styret röstar på fel förslag"
+    },
+    {
+        "type": 1,
+        "text": "TalP adjournerar mötet < 15 min"
+    },
+    {
+        "type": 1,
         "text": "Ett meddelande används som skamlös PR"
     },
     {
@@ -166,5 +182,9 @@
     {
         "type": 1,
         "text": "LK försenar mötet"
+    },
+    {
+        "type": 1,
+        "text": "Styretpateter gör revolution"
     }
 ]
