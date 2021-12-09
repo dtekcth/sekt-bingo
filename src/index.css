@@ -27,7 +27,7 @@ h1 {
     border: 1px solid black;
     height: 20vw;
     max-height: 10rem;
-    width: 20vw !important;
+    width: 20% !important;
 }
 
 .btn-active {
