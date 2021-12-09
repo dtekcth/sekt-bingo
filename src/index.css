@@ -4,6 +4,7 @@ button {
     border-style: none;
     background-color: transparent;
     text-align: center;
+    word-wrap: break-word;
 }
 
 h1 {
@@ -11,10 +12,16 @@ h1 {
     text-align: center;
 }
 
+.row {
+    flex-wrap: nowrap !important;
+}
+
 .square {
     margin: 1px;
     border: 1px solid black;
-    height: 10rem;
+    height: 20vw;
+    max-height: 10rem;
+    width: 20vw !important;
 }
 
 .btn-active {
