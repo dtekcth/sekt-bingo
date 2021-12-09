@@ -9,7 +9,11 @@
     },
     {
         "type": 0,
-        "text": "ajournering av mötet"
+        "text": "Det e safe sex lv 6"
+    },
+    {
+        "type": 0,
+        "text": "Ajournering av mötet"
     },
     {
         "type": 0,
@@ -54,6 +58,10 @@
     {
         "type": 1,
         "text": "Yrkning på streck i debatten i utfrågning"
+    },
+    {
+        "type": 1,
+        "text": "Streck i debatten vid tom talarlista"
     },
     {
         "type": 1,
@@ -198,5 +206,25 @@
     {
         "type": 1,
         "text": "Medvetet försegande av mötet"
+    },
+    {
+        "type": 1,
+        "text": "Mötet har redan läst en handling"
+    },
+    {
+        "type": 1,
+        "text": "Noll pers röstar"
+    },
+    {
+        "type": 1,
+        "text": "Någon reserverar sig"
+    },
+    {
+        "type": 1,
+        "text": "Tidsbegränsning på utfrågning"
+    },
+    {
+        "type": 1,
+        "text": "Olika yrkanden på tidsbegränsning"
     }
 ]
