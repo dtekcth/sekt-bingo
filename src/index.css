@@ -7,6 +7,12 @@ button {
     word-wrap: break-word;
 }
 
+.btn-counter {
+    width: 100%;
+    height: auto !important;
+    border: 2px solid grey;
+}
+
 h1 {
     width: 100%;
     text-align: center;
