@@ -36,6 +36,10 @@ class Counter extends React.Component<CoutnerProps,CounterState> {
         let c = this.state.count + 1;
         this.setState({count: c}); 
     }
+    lowerCount() : void {
+        let c = this.state.count - 1;
+        this.setState({count: c}); 
+    }
 
     render() {
         return (
@@ -44,6 +48,9 @@ class Counter extends React.Component<CoutnerProps,CounterState> {
                 +
             </button>
             <h2>Ordningsfrågor: {this.state.count}</h2>
+            <button className='btn-counter' onClick={() => this.lowerCount()}>
+                -
+            </button>
             </>
         );
     }
