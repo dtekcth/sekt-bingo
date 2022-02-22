@@ -145,7 +145,7 @@
     },
     {
         "type": 1,
-        "text": "Någon blir inajungerad"
+        "text": "Någon blir inadjungerad"
     },
     {
         "type": 1,
@@ -173,7 +173,7 @@
     },
     {
         "type": 1,
-        "text": "Styret vill adjungera mötet"
+        "text": "Styret vill ajournera mötet"
     },
     {
         "type": 1,
@@ -230,5 +230,9 @@
     {
         "type": 1,
         "text": "Kontrareplik"
+    },
+    {
+        "type": 1,
+        "text": "Golic lyfter en motion"
     }
 ]
