@@ -1,0 +1,122 @@
+[
+    {
+        "type": 0,
+        "text": "Ordningsfråga"
+    },
+    {
+        "type": 0,
+        "text": "Ajournering av mötet"
+    },
+    {
+        "type": 1,
+        "text": "Ändringsyrkande"
+    },
+    {
+        "type": 1,
+        "text": "Inspektorn tolkar"
+    },
+    {
+        "type": 1,
+        "text": "Talmanspresidiet glömmer släcka ljuset"
+    },
+    {
+        "type": 1,
+        "text": "Talmanspresidiet glömmer tända ljuset"
+    },
+    {
+        "type": 1,
+        "text": "Yrkning på streck"
+    },
+    {
+        "type": 1,
+        "text": "Bordläggning"
+    },
+    {
+        "type": 1,
+        "text": "Motion godkäns"
+    },
+    {
+        "type": 1,
+        "text": "Motion avslås"
+    },
+    {
+        "type": 1,
+        "text": "Propp godkäns"
+    },
+    {
+        "type": 1,
+        "text": "Propp avslås"
+    },
+    {
+        "type": 1,
+        "text": "Remiss"
+    },
+    {
+        "type": 1,
+        "text": "Justera röstlängden igen"
+    },
+    {
+        "type": 1,
+        "text": "Kallelse på > 200 sidor"
+    },
+    {
+        "type": 1,
+        "text": "Ändringsyrkande"
+    },
+    {
+        "type": 1,
+        "text": "Jämkning"
+    },
+    {
+        "type": 1,
+        "text": "Någon är däremot"
+    },
+    {
+        "type": 1,
+        "text": "Kontrareplik"
+    },
+    {
+        "type": 1,
+        "text": "Mötet startar sent"
+    },
+    {
+        "type": 1,
+        "text": "Mötet startar sent"
+    },
+    {
+        "type": 1,
+        "text": "Arbetsgrupp är sen"
+    },
+    {
+        "type": 1,
+        "text": "KL har missat något"
+    },
+    {
+        "type": 1,
+        "text": "TalP missar något"
+    },
+    {
+        "type": 1,
+        "text": "Mötet blir förvirrat"
+    },
+    {
+        "type": 1,
+        "text": "Mötet slutar efter midnatt"
+    },
+    {
+        "type": 1,
+        "text": "Enkel fråga"
+    },
+    {
+        "type": 1,
+        "text": "Interpellation"
+    },
+    {
+        "type": 1,
+        "text": "Någon blir inadjungerad"
+    },
+    {
+        "type": 1,
+        "text": "Talman glömmer räkna sektionsordf"
+    }
+]
