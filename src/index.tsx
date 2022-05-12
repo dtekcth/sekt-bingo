@@ -15,47 +15,6 @@ interface SquareProps {
     btnText: string;
 }
 
-interface CoutnerProps {
-    
-}
-
-interface CounterState {
-    count: number;
-}
-
-class Counter extends React.Component<CoutnerProps,CounterState> {
-    constructor(props: CoutnerProps) {
-        super(props);
-
-        this.state = {
-            count: 0,
-        }
-    }
-
-    handleClick() : void {
-        let c = this.state.count + 1;
-        this.setState({count: c}); 
-    }
-    lowerCount() : void {
-        let c = this.state.count - 1;
-        this.setState({count: c}); 
-    }
-
-    render() {
-        return (
-            <>
-            <button className='btn-counter' onClick={() => this.handleClick()}>
-                +
-            </button>
-            <h2>Ordningsfrågor: {this.state.count}</h2>
-            <button className='btn-counter' onClick={() => this.lowerCount()}>
-                -
-            </button>
-            </>
-        );
-    }
-}
-
 class Square extends React.Component<SquareProps, SquareState> {
     constructor(props: SquareProps) {
         super(props);
@@ -190,17 +149,14 @@ class Game extends React.Component {
             <>
                 <Container fluid>
                     <Row>
-                        <h1>Sektionsmötesbingo😎</h1>
+                        <h1>Sektionsmötesbingo</h1>
                     </Row>
                     <Row>
-                        <Col md={2}>
-                            <h2>Ordningfrågecounter</h2>
-                            <Counter />
-                        </Col>
-                        <Col md={1}></Col>
-                        <Col md={7}>
+                        <Col/>
+                        <Col md={10}>
                             <Board />
                         </Col>
+                        <Col/>
                     </Row>
                 </Container>
             </>
