@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { Container, Row, Col } from 'react-bootstrap';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import data from './fumsquares.json';
+import data from './squares.json';
 
 
 interface SquareState {
