@@ -206,5 +206,9 @@
     {
         "type": 1,
         "text": "Styrelsen ändringyrkar på sig själva"
+    },
+    {
+        "type": 1,
+        "text": "Någon ordningsfrågar något som är en sakupplysning"
     }
 ]
