@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  bingo:
+    image: sekt-bingo
+    build: .
+    ports:
+      - "3000:3000"
+
+networks:
+  ingress:
+    name: bingo.dtek.se-ingress
