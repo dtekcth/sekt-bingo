@@ -1,7 +1,13 @@
-FROM node:12-alpine
-WORKDIR /usr/app
-COPY package.json package-lock.json ./
-RUN npm install --quiet
-COPY . ./
-EXPOSE 3000
-ENTRYPOINT npm start
+FROM node:12-alpine as builder
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm ci
+COPY . .
+RUN npm run build
+
+FROM nginx:1.23-alpine
+EXPOSE 80
+
+COPY --from=builder /app/build /usr/share/nginx/html
+
