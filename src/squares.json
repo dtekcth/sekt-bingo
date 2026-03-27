@@ -5,19 +5,19 @@
     },
     {
         "type": 0,
-        "text": "Ordningsfråga"
+        "text": "Ordningsfråga som inte är en fråga"
     },
     {
         "type": 0,
-        "text": "Ajournering av mötet"
+        "text": "Ajournering för fika"
     },
     {
         "type": 0,
-        "text": "Mer än en person söker en post"
+        "text": "Flera sökande till en post"
     },
     {
         "type": 1,
-        "text": "Votering begärs"
+        "text": "Votering"
     },
     {
         "type": 1,
@@ -29,7 +29,7 @@
     },
     {
         "type": 1,
-        "text": "En motion tas inte upp"
+        "text": "En motion bordläggs"
     },
     {
         "type": 1,
@@ -41,19 +41,19 @@
     },
     {
         "type": 1,
-        "text": "Yrkning på streck i debatten i utfrågning"
+        "text": "Yrkning på streck i debatten under utfrågning"
     },
     {
         "type": 1,
-        "text": "Streck i debatten vid tom talarlista"
+        "text": "Yrkning på streck i debatten vid tom talarlista"
     },
     {
         "type": 1,
-        "text": "Yrkning på streck i debatten i diskussion om streck i debatten"
+        "text": "Yrkning på streck i debatten, i diskussion om streck i debatten"
     },
     {
         "type": 1,
-        "text": "Mötet blir förrvirrat"
+        "text": "Mötet blir förvirrat"
     },
     {
         "type": 1,
@@ -61,7 +61,7 @@
     },
     {
         "type": 1,
-        "text": "THP ajournerar mötet < 15 min"
+        "text": "Mötet ajourneras i mindre än en kvart"
     },
     {
         "type": 1,
@@ -73,27 +73,27 @@
     },
     {
         "type": 1,
-        "text": "Någon post blir vakantsatt"
+        "text": "En post vakantsätts"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet bifaller en motion"
+        "text": "Mötet bifaller en motion"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet bifaller en proposition"
+        "text": "Mötet bifaller en proposition"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet avslår en motion"
+        "text": "Mötet avslår en motion"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet avslår en proposition"
+        "text": "Mötet avslår en proposition"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet skickar något på remiss"
+        "text": "Mötet beslutar att Styret ska undersöka nåt"
     },
     {
         "type": 1,
@@ -109,11 +109,7 @@
     },
     {
         "type": 1,
-        "text": "Ingen vill justera"
-    },
-    {
-        "type": 1,
-        "text": "Ingen vill vara rösträknare"
+        "text": "Ingen vill vara justerare"
     },
     {
         "type": 1,
@@ -133,7 +129,7 @@
     },
     {
         "type": 1,
-        "text": "Middagen är engryta"
+        "text": "Middagen är en gryta"
     },
     {
         "type": 1,
@@ -141,11 +137,7 @@
     },
     {
         "type": 1,
-        "text": "Någon håller med det Lucas Glimfjord sa"
-    },
-    {
-        "type": 1,
-        "text": "Kassören ändrar budgeten"
+        "text": "Sektionskassören ändrar budgeten"
     },
     {
         "type": 1,
@@ -157,7 +149,7 @@
     },
     {
         "type": 1,
-        "text": "Halva mötet går efter middagen"
+        "text": "Halva mötet drar efter middagen"
     },
     {
         "type": 1,
@@ -173,11 +165,7 @@
     },
     {
         "type": 1,
-        "text": "Någon är däremot"
-    },
-    {
-        "type": 1,
-        "text": "En applåd"
+        "text": "Applåder utanför inval"
     },
     {
         "type": 1,
@@ -189,7 +177,7 @@
     },
     {
         "type": 1,
-        "text": "Noll personer röstar"
+        "text": "Ingen röstar"
     },
     {
         "type": 1,
@@ -205,10 +193,10 @@
     },
     {
         "type": 1,
-        "text": "Styrelsen ändringyrkar på sig själva"
+        "text": "Styret ändringsyrkar på sig själva"
     },
     {
         "type": 1,
-        "text": "Någon ordningsfrågar något som är en sakupplysning"
+        "text": "Ordningsfråga som är en sakupplysning"
     }
 ]
