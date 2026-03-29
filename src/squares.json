@@ -5,19 +5,31 @@
     },
     {
         "type": 0,
-        "text": "Ordningsfråga"
+        "text": "Ordningsfråga som inte är en fråga"
     },
     {
         "type": 0,
-        "text": "Ajournering av mötet"
+        "text": "Ajournering för fika"
     },
     {
         "type": 0,
-        "text": "Mer än en person söker en post"
+        "text": "Flera sökande till en post"
+    },
+    {
+        "type": 0,
+        "text": "Ansvarsfrihet bordläggs"
+    },
+    {
+        "type": 0,
+        "text": "Mötet ger en fanbärare något att dricka"
     },
     {
         "type": 1,
-        "text": "Votering begärs"
+        "text": "Votering"
+    },
+    {
+        "type": 1,
+        "text": "Sluten votering"
     },
     {
         "type": 1,
@@ -29,7 +41,7 @@
     },
     {
         "type": 1,
-        "text": "En motion tas inte upp"
+        "text": "En motion bordläggs"
     },
     {
         "type": 1,
@@ -37,23 +49,27 @@
     },
     {
         "type": 1,
+        "text": "Någon i THP glömmer ta av sig hatten"
+    },
+    {
+        "type": 1,
         "text": "Rösträknarna kan inte räkna"
     },
     {
         "type": 1,
-        "text": "Yrkning på streck i debatten i utfrågning"
+        "text": "Yrkning på streck i debatten under utfrågning"
     },
     {
         "type": 1,
-        "text": "Streck i debatten vid tom talarlista"
+        "text": "Yrkning på streck i debatten vid tom talarlista"
     },
     {
         "type": 1,
-        "text": "Yrkning på streck i debatten i diskussion om streck i debatten"
+        "text": "Yrkning på streck i debatten, i diskussion om streck i debatten"
     },
     {
         "type": 1,
-        "text": "Mötet blir förrvirrat"
+        "text": "Mötet blir förvirrat"
     },
     {
         "type": 1,
@@ -61,7 +77,7 @@
     },
     {
         "type": 1,
-        "text": "THP ajournerar mötet < 15 min"
+        "text": "Mötet ajourneras i mindre än en kvart"
     },
     {
         "type": 1,
@@ -73,27 +89,39 @@
     },
     {
         "type": 1,
-        "text": "Någon post blir vakantsatt"
+        "text": "En post vakantsätts"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet bifaller en motion"
+        "text": "En post stängs"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet bifaller en proposition"
+        "text": "Mötet bifaller en motion"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet avslår en motion"
+        "text": "Mötet bifaller en proposition"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet avslår en proposition"
+        "text": "Mötet bifaller ett ändringsyrkande"
     },
     {
         "type": 1,
-        "text": "Sektionsmötet skickar något på remiss"
+        "text": "Mötet avslår en motion"
+    },
+    {
+        "type": 1,
+        "text": "Mötet avslår en proposition"
+    },
+    {
+        "type": 1,
+        "text": "Mötet beslutar att Styret ska undersöka nåt"
+    },
+    {
+        "type": 1,
+        "text": "En arbetsgrupp skapas"
     },
     {
         "type": 1,
@@ -109,11 +137,11 @@
     },
     {
         "type": 1,
-        "text": "Ingen vill justera"
+        "text": "Ingen vill vara justerare"
     },
     {
         "type": 1,
-        "text": "Ingen vill vara rösträknare"
+        "text": "Mötet avslutas efter midnatt"
     },
     {
         "type": 1,
@@ -133,7 +161,7 @@
     },
     {
         "type": 1,
-        "text": "Middagen är engryta"
+        "text": "Middagen är en gryta"
     },
     {
         "type": 1,
@@ -141,11 +169,7 @@
     },
     {
         "type": 1,
-        "text": "Någon håller med det Lucas Glimfjord sa"
-    },
-    {
-        "type": 1,
-        "text": "Kassören ändrar budgeten"
+        "text": "Sektionskassören ändrar budgeten"
     },
     {
         "type": 1,
@@ -157,7 +181,7 @@
     },
     {
         "type": 1,
-        "text": "Halva mötet går efter middagen"
+        "text": "Halva mötet drar efter middagen"
     },
     {
         "type": 1,
@@ -173,11 +197,7 @@
     },
     {
         "type": 1,
-        "text": "Någon är däremot"
-    },
-    {
-        "type": 1,
-        "text": "En applåd"
+        "text": "Applåder utanför inval"
     },
     {
         "type": 1,
@@ -189,7 +209,11 @@
     },
     {
         "type": 1,
-        "text": "Noll personer röstar"
+        "text": "Ingen röstar"
+    },
+    {
+        "type": 1,
+        "text": "Inga sökande till en post"
     },
     {
         "type": 1,
@@ -205,10 +229,74 @@
     },
     {
         "type": 1,
-        "text": "Styrelsen ändringyrkar på sig själva"
+        "text": "Replik nekas"
     },
     {
         "type": 1,
-        "text": "Någon ordningsfrågar något som är en sakupplysning"
+        "text": "Styret ändringsyrkar på sig själva"
+    },
+    {
+        "type": 1,
+        "text": "Ordningsfråga som är en sakupplysning"
+    },
+    {
+        "type": 1,
+        "text": "Sakupplysning som inte är en fråga"
+    },
+    {
+        "type": 1,
+        "text": "Förklaring av skillnaden mellan ordningsfråga och sakupplysning"
+    },
+    {
+        "type": 1,
+        "text": "Mötet ger en icke-fanbärare något att dricka"
+    },
+    {
+        "type": 1,
+        "text": "THP har slut på dricka"
+    },
+    {
+        "type": 1,
+        "text": "Någon söker för någon annan"
+    },
+    {
+        "type": 1,
+        "text": "PL är inte här för sitt meddelande"
+    },
+    {
+        "type": 1,
+        "text": "Någon \"slår ett slag\" för något"
+    },
+    {
+        "type": 1,
+        "text": "Backning på middagen"
+    },
+    {
+        "type": 1,
+        "text": "En trattmotion bifalls"
+    },
+    {
+        "type": 1,
+        "text": "Den balla prylen lottas ut till någon som inte är här"
+    },
+    {
+        "type": 1,
+        "text": "Ajournering för tekniskt strul"
+    },
+    {
+        "type": 1,
+        "text": "Andra läsningen av en motion"
+    },
+    {
+        "type": 1,
+        "text": "d20bong slås i alldeles för mycket"
+    },
+    {
+        "type": 1,
+        "text": "Någon tar en trattmotion seriöst"
+    },
+    {
+        "type": 1,
+        "text": "Fler än två konstellationer"
     }
 ]
