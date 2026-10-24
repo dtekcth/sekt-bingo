@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import { Container, Row, Col } from 'react-bootstrap';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -166,7 +166,8 @@ class Game extends React.Component {
 
 // ========================================
 
-ReactDOM.render(
-    <Game />,
-    document.getElementById('root')
-);
+const root = document.getElementById('root');
+
+if (root) {
+    createRoot(root).render(<Game />);
+}
